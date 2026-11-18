@@ -1,9 +1,5 @@
 ESP32 U8G2 library support
-There is an excellent open source library called u8g2 that can be found on Github here:
-https://github.com/olikraus/u8g2
-
-There is an excellent open source library called u8g2 that can be found on Github here:
-
+There is  open source library called u8g2 that can be found on Github here:
 https://github.com/olikraus/u8g2
 
 
